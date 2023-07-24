@@ -1,1 +1,1 @@
-![robotics](./robotics.jpg)
+![robotics](./Robotics.jpg)
